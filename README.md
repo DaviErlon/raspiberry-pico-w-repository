@@ -6,8 +6,11 @@ O objetivo principal é manter um histórico organizado, abrangendo desde manipu
 
 ## 📋 Lista dos repositórios
 
-Abaixo estão os módulos desenvolvidos durante o estudo no EmbarcaTech. Cada link direciona para um repositório isolado contendo o código-fonte em C, e os detalhes de implementação daquela atividade específica.
+Abaixo estão os módulos desenvolvidos durante o estudo no EmbarcaTech, além de projetos pessoais desenvolvidos para o Pico posteriores ao EmbarcaTech. Cada link direciona para um repositório isolado contendo o código-fonte em C, e os detalhes de implementação daquele repositório específico.
 
+* 🔗 [**flapbird-rp2040**](https://github.com/DaviErlon/flapbird-rp2040)
+    * **Descrição:** Implementação completo do clássico jgoo Flap Bird no Raspberry Pico, com uso de botões, buzzers e um display OLED 128x64.
+      
 * 🔗 [**tarefa-ledbuzzer**](https://github.com/DaviErlon/tarefa-ledbuzzer)
     * **Descrição:** Controle e acionamento de atuadores básicos. Implementação de lógicas de saída digital para controle de estado de LEDs e geração de tons em buzzers.
 
@@ -33,7 +36,7 @@ Abaixo estão os módulos desenvolvidos durante o estudo no EmbarcaTech. Cada li
 
 ## 🚀 Como utilizar
 
-1. **Acesse as Tarefas:** Clique em qualquer um dos links acima para ser redirecionado ao repositório específico da tarefa.
+1. **Acesse os links:** Clique em qualquer um dos links acima para ser redirecionado ao repositório específico da tarefa/projeto.
 2. **Documentação Local:** Cada repositório contém instruções próprias, finalidades e dependências necessárias.
 3. **Gravação no Pico:** O processo envolve compilar o código utilizando o SDK do Pico (gerando um arquivo `.uf2`), podendo ser feito o uso do CMAKE, e arrastar este arquivo para a unidade de armazenamento do Raspberry Pi Pico W em modo `BOOTSEL`.
 
