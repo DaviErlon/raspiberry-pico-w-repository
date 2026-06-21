@@ -9,7 +9,7 @@ O objetivo principal é manter um histórico organizado, abrangendo desde manipu
 Abaixo estão os módulos desenvolvidos durante o projeto de capacitação EmbarcaTech, além de projetos pessoais desenvolvidos para o Pico posteriormente. Cada link direciona para um repositório isolado contendo o código-fonte em C e os detalhes de implementação daquele repositório no README respectivo.
 
 * 🔗 [**flapbird-rp2040**](https://github.com/DaviErlon/flapbird-rp2040)
-    * **Descrição:** Implementação completo do clássico jgoo Flap Bird no Raspberry Pico, com uso de botões, buzzers e um display OLED 128x64.
+    * **Descrição:** Implementação do clássico jogo Flap Bird no Raspberry Pico W, com uso de botões, buzzers e um display OLED 128x64.
       
 * 🔗 [**tarefa-ledbuzzer**](https://github.com/DaviErlon/tarefa-ledbuzzer)
     * **Descrição:** Controle e acionamento de atuadores básicos. Implementação de lógicas de saída digital para controle de estado de LEDs e geração de tons em buzzers.
